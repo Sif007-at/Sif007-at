@@ -1,16 +1,61 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center"> Assalamualikum , I'm Sifat</h1>
+<h3 align="center">A Passionate Programming Learner & Future Software Developer</h3>
 
-###
+---
 
-<p align="left">My name is Sifat and currently i am a learner </p>
+## 👨‍💻 About Me
+- 🌱 I’m currently learning **Programming and Software Development**
+- 💡 I enjoy solving problems and improving my coding skills
+- 📚 I’m building my knowledge step by step
+- 🚀 My goal is to become a skilled **Software Developer**
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 📘 Currently Learning
+- Java
+- Object-Oriented Programming (OOP)
+- Basic Data Structures
+- Problem Solving
+- HTML & CSS
 
-###
+---
 
-<p align="left">✨Ask me about  C, C++, Python, JAVA, Competitive_Programming
+## 🛠️ Tools & Technologies
+- Java
+- C
+- C++
+- HTML
+- CSS
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 🎯 My Current Focus
+- Writing cleaner code
+- Practicing programming regularly
+- Building small projects
+- Strengthening programming fundamentals
+
+---
+
+## 📌 Goals
+- Improve problem-solving ability
+- Build useful real-world projects
+- Learn full-stack development
+- Grow consistently as a programmer
+
+---
+
+## 📫 Connect With Me
+- Gmail: abuyusufsifat007@gmail.com
+
+---
+
+## ⚡ Personal Motto
+> **Learn. Practice. Improve. Repeat.**
 
 
 <h2 align="left">I code with</h2>
